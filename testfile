@@ -1,0 +1,9 @@
+Okay what is up guys  
+######
+<include std.io>
+
+using namespace std
+
+void main() {
+
+}
